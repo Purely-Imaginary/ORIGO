@@ -1,0 +1,23 @@
+D:\Dropbox\VS #\ORIGO\ORIGO\bin\Release\ORIGO.exe
+D:\Dropbox\VS #\ORIGO\ORIGO\bin\Release\ORIGO.pdb
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.DodajNowa.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.MainMenu.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.BazaPiesni.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.Properties.Resources.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.csproj.GenerateResource.Cache
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.exe
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.pdb
+D:\Dropbox\VS #\ORIGO\ORIGO\bin\Release\ORIGO.exe.manifest
+D:\Dropbox\VS #\ORIGO\ORIGO\bin\Release\ORIGO.application
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.exe.manifest
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.application
+D:\Dropbox\Origo program release\ORIGO.exe.manifest
+D:\Dropbox\Origo program release\ORIGO.application
+D:\Dropbox\Origo program release\ORIGO.exe
+D:\Dropbox\Origo program release\ORIGO.pdb
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.SongDetails.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.csprojResolveAssemblyReference.cache
+D:\Dropbox\Origo program release\ORIGO.exe.config
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.SettingsForm.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.ChordsForm.resources
+D:\Dropbox\VS #\ORIGO\ORIGO\obj\x86\Release\ORIGO.Notepad.resources

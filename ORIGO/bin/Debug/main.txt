@@ -1,0 +1,58 @@
+﻿Binarny zapis pliku
+Zmniejszyć ilość odczytów
+
+Co nowego:
+
+09-04-14:
+- Wyszukiwanie wpisów po tytule, wielkość nie ma znaczenia
+- Najazd myszą na pole wyszukiwania zaznacza cały tekst
+- Dodatkowe menu pod prawym przyciskiem myszy, zapisywanie pieśni do pamięci i drukowanie zapamiętanych wpisów
+
+06-04-14:
+- Tabela chwytów dostępna z menu głównego
+
+31-03-14:
+- Kolorowanie braku numerów z komputera w tabeli
+- Podawanie ilości pieśni bez numerów jak i listowanie ich po dwukliku na statystykę
+- Odświeżenie tekstów pomocy
+- Przeczyszczenie kodu
+- Dodawanie numerów z komputera do pieśni
+
+30-03-14:
+- Dopisanie nru w komputerze (database rehaul) (ufff)
+
+29-03-14:
+- Drukowanie tekstów via HTML (prawym na tabelke i Drukuj - obsluga jednej i dwóch pieśni na raz)
+- Bugfix zwiazany z sortowaniem piesni - wyszukiwal index z pliku nawet kiedy byl inny niz index z tabeli
+
+27-03-14:
+- Rozszerzanie okna z tabelą rozwija skróty i tytułach kolumn
+- Delikatne poprawy do tabeli, ucięcie niepotrzebnych szerokości
+- Działający plik ustawień (settings.ini)
+- Uporządkowanie okien podczas zmiany wielkości
+- Bugfix przy wczytywaniu nazw w poszukiwaniu duplikatow (NullHandleException)
+- Ograniczenie tworzenia tablic do wielkosci wpisów
+
+24-03-14:
+- Przy otwieraniu okna z tabelą szerokość okna automatycznie dopasowuje się do szerokości tabeli
+- Szczegóły pieśni zachowują się jak wyżej
+- Statystyki bazy nad tabelą
+- Dwuklik na statystykę wyswietla okno z odpowiadającą listą pieśni 
+
+23-03-14:
+- Kolorowanie na żółto pieśni które nie mają chwytów
+- Szukanie duplikatów przy wprowadzaniu pieśni
+- Poprawa focusu
+
+22-03-14:
+- Zmiana rozmiaru okna w liście pieśni zmienia rozmiar tabeli
+
+10-03-14:
+- Wczytywanie changelogu z pliku main.txt
+- Edycja wpisów poprzez okno dialogowe
+- Odnowienie okna podglądu
+- Odświeżanie tabeli z pieśniami za każdą aktywacją okna
+
+09-03-14:
+- Nowa ikonka, wprowadzenie changelogu
+- Tworzenie baza.txt w przypadku pierwszego uruchomienia
